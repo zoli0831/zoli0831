@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm currently a **PhD student** :mortar_board: at EPFL in Switzerland :switzerland: in the groups of [Beat Fierz](https://www.epfl.ch/labs/lcbm/fierz/). My research interests lie in the structural and mechanism studies of Histone Modifications and their regulators, such as Polycomb Repressive Complex.    
+
+📫 How to reach me:
+- :envelope: zongqing.li@epfl.ch
+
 <!--
 **zoli0831/zoli0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
